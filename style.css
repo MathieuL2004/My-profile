@@ -23,13 +23,14 @@ h1{
  	font-weight: 500;
  }
 
-a: {
+a{
 	font-family: Roboto, sans-serif;
-	text decoration: none;
+	text-decoration: none;
 	color: #6B72E1;
 	font-weight: bold;
 }
-a: hover {
+
+a:hover {
 	color: black;
 }
 
